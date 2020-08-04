@@ -1,0 +1,70 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.contain{
+    justify-content: center;
+    padding: 50px;
+    background-color: rgb(233, 228, 245);
+
+}
+.row{
+    padding: 10px;
+    border: 0px;
+    box-shadow: 0px 0px 6px 1px #aaaaaa;
+    justify-content: center;
+    margin: 0px 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    height: 200px;
+    align-items: center;
+    background: #fff;
+    border-radius: 30px;
+}
+.row label{
+    font-size: 16px;
+    font-family: 'Kanit', sans-serif;
+    color: darkblue;
+}
+.row input{
+    width: 100%;
+    border: 0px;
+    box-shadow: 0px 0px 7px 0px #a8a8a8;
+    padding: 5px;
+    border-radius: 18px;
+    outline: none;
+}
+.row select{
+    outline: none;
+    width: 100%;
+    border: 0px;
+    box-shadow: 0px 0px 7px 0px #a8a8a8;
+    padding: 5px;
+    border-radius: 18px;
+}
+.row select option{
+    outline: none;
+    color: darkblue;
+}
+.row h2{
+    font-size: 25px;
+    color: darkred;
+}
+
+.col-md-1{
+    margin-top: 30px;
+}
+.col-md-1 button{
+    padding: 5px;
+    width: 100%;
+    border-width: 0px;
+    background: #fff;
+    color: darkblue;
+    outline: none;
+    box-shadow: 0px 0px 8px 0px #999999;
+}
+.row h1{
+    font-size: 18px;
+    color: darkblue;
+    width: 100%;
+}
